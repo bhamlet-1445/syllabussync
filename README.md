@@ -65,15 +65,6 @@ Students receive 4–5 syllabi every semester with inconsistent formatting and b
 - [x] Public GitHub repository with clean, runnable code
 - [x] NLP pipeline Jupyter notebook (Google Colab ready)
 
-### Phase 2 — Roadmap
-- [ ] Google Calendar OAuth — push events directly without .ics download
-- [ ] Notion integration
-- [ ] Deadline push notifications
-- [ ] Multi-course dashboard
-- [ ] Syllabus change detection
-
----
-
 ## NLP Pipeline
 
 ```
