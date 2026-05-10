@@ -102,9 +102,9 @@ syllabussync/
 - [x] CSV export
 - [x] Google Calendar / Apple Calendar / Outlook export via .ics
 
-**Phase 2 — Next Steps**
-- [ ] Google Calendar OAuth — push events directly without .ics download
-- [ ] Notion integration
-- [ ] Deadline reminders and push notifications
-- [ ] Multi-course dashboard
-- [ ] Syllabus change detection
+**Phase 2 — Final MVP (complete)**
+- [x] Deadline reminders and push notifications
+- [x] Stats dashboard
+- [x] Multi-Syllabus Upload
+- [x] Print/Save as pdf view
+- [x] Make Design more polished
