@@ -24,7 +24,7 @@ Students receive 4–5 syllabi every semester with inconsistent formatting and b
 
 ### Step 2 — Add Your API Key
 1. Download `SyllabusSync.html`
-2. Open it in any text editor (TextEdit, Notepad, or VS Code)
+2. Open it in any text editor, I would just edit in the GitHub and command F and replace with your own API Key.
 3. On the first line of the `<script>` section, find:
    ```
    var API_KEY = 'YOUR-API-KEY-HERE';
